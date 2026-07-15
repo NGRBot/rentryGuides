@@ -1,7 +1,1 @@
-Basically just a big swap from 
-
-https://files.catbox.moe/
-
-to 
-
-https://raw.githubusercontent.com/NGRBot/rentryGuides/refs/heads/main/
+Basically just a big swap from using catbox to using github for image content
